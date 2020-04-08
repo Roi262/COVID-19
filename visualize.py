@@ -82,7 +82,7 @@ def plot_sex():
     plt.axis('equal')
     plt.show()
 
-# plot_sex()
+plot_sex()
 # plot_age()
 # plot_counter('עיר מגורים')
-plot_counter('קופת חולים')
+# plot_counter('קופת חולים')

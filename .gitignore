@@ -1,4 +1,5 @@
 /venv
 /data
+/charts
 .vscode
 __pycache__

@@ -1,3 +1,3 @@
-NIR_ETZION_PATH = 'nir_etzion_guests.csv'
+NIR_ETZION_PATH = 'data/nir_etzion_guests.csv'
 
 HOTEL = 'Nir Etzion'
